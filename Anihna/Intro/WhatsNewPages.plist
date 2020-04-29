@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pageType</key>
+	<string>whatsNew</string>
+	<key>title</key>
+	<string>What&apos;s New?</string>
+	<key>pages</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Introducing Chat</string>
+			<key>subtitle</key>
+			<string>{bullets} Group Chat now features: Customized group names, avatars, and backgrounds. Supports up to 250 participants.{nextLine}{bullets} Public profiles allow Message+ users, including those who are not in your contacts, to see your name and avatar. Update your profile anytime within the Sidebar.{nextLine}{bullets} Typing Indicators, Delivery and Read Receipts.{nextLine}{bullets} Share photos, gifs and videos of larger size.{nextLine}{bullets} Faster messaging experience.</string>
+			<key>imageName</key>
+			<string>ChatIcon</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Location Services</string>
+			<key>subtitle</key>
+			<string>{bullets} Let the people who matter know when you&apos;re on your way Home using Glympse.{nextLine}{bullets} Use Yelp to find the best places to meet.</string>
+			<key>imageName</key>
+			<string>LocationIcon</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Photo Editing with Kanvas</string>
+			<key>subtitle</key>
+			<string>{bullets} Take a picture, video or gif.{nextLine}{bullets} Add stickers or doodles just because.{nextLine}{bullets} Share a Flipbook from gallery pictures.</string>
+			<key>imageName</key>
+			<string>KanvasIcon</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Help Anihna Put Your Data To Work For You</string>
+			<key>subtitle</key>
+			<string>Anihna would like your permission.</string>
+			<key>imageName</key>
+			<string>Intro1</string>
+			<key>buttonTitle</key>
+			<string>View Details</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pageType</key>
+	<string>launchScreen</string>
+	<key>buttonTitle</key>
+	<string>Start Messaging</string>
+	<key>pages</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Explore new opporttunities </string>
+			<key>subtitle</key>
+			<string>....</string>
+			<key>imageName</key>
+			<string>Intro1</string>
+		</dict>
+        <dict>
+                <key>title</key>
+                <string>Connect. Collaborate.</string>
+                <key>subtitle</key>
+                <string>.....</string>
+                <key>imageName</key>
+                <string>Intro2</string>
+            </dict>
+		<dict>
+			<key>title</key>
+			<string>Create and share. </string>
+			<key>subtitle</key>
+			<string> </string>
+			<key>imageName</key>
+			<string>Intro3</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Innovate. Create.</string>
+			<key>subtitle</key>
+			<string>.....</string>
+			<key>imageName</key>
+			<string>Intro4</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Be visible</string>
+			<key>subtitle</key>
+			<string>......</string>
+			<key>imageName</key>
+			<string>Intro5</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Take your bussiness to the next level.</string>
+			<key>subtitle</key>
+			<string>.....</string>
+			<key>imageName</key>
+			<string>Intro6</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Show off your creativity</string>
+			<key>subtitle</key>
+			<string>.....</string>
+			<key>imageName</key>
+			<string>Intro7</string>
+		</dict>
+	</array>
+</dict>
+</plist>
